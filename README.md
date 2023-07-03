@@ -1,3 +1,5 @@
+# Netflix Clone
+I created this GitHub project that showcases a Netflix clone website built using HTML and CSS. This project serves as a demonstration of my web development skills in front-end technologies. Through this project, I sought to showcase my understanding of responsive web design principles, ensuring that the website is fully optimized for various screen sizes and devices. By utilizing CSS media queries, I made the website adapt gracefully to different resolutions
 # Link
 thriving-medovik-59565c.netlify.app/
 # Screenshots (Pc)
